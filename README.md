@@ -1,0 +1,1 @@
+# Auraqule Blockchain Crowdfunding appplication.
